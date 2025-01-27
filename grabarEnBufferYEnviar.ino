@@ -24,9 +24,9 @@ const uint8_t cs = 9;
 #define TIMEOUT_DEEPGRAM 10
 #define LANGUAGE "es-ES"
 WiFiClientSecure client;
-const char* ssid = "ZENBOOK-JESUSR_NET";
-const char* password = "yisuss17??";
-const char* deepgramApiKey = "5faa09c5dc9bfe6eb7adfe9e90ab51fe82244e35";
+const char* ssid = "";
+const char* password = "";
+const char* deepgramApiKey = "";
 
 // Configuración de I2S
 const i2s_port_t I2S_PORT = I2S_NUM_0;
